@@ -6,24 +6,28 @@
     <rect x="16" y="4" rx="2.2537" ry="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
+    <g id="line">
+    <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
   <g id="color">
     <rect x="5" y="17" width="62" height="38" fill="#fff"/>
-    <rect x="33" y="22" width="34" height="4" fill="#000"/>
-    <rect x="33" y="30" width="34" height="4" fill="#000"/>
-    <rect x="5" y="38" width="62" height="4" fill="#000"/>
-    <rect x="5" y="46" width="62" height="4" fill="#000"/>
+    <rect x="33" y="18" width="34" height="4" fill="#000"/>
+    <rect x="33" y="26" width="34" height="4" fill="#000"/>
+    <rect x="5" y="34" width="62" height="4" fill="#000"/>
+    <rect x="5" y="42" width="62" height="4" fill="#000"/>
+    <rect x="5" y="50" width="62" height="4" fill="#000"/>
     <g fill="#000" stroke="#000" stroke-linejoin="round" stroke-width="2">
-      <polygon points="9 24 11 24 10 21"/>
-      <polygon points="18 24 20 24 19 21"/>
-      <polygon points="27 24 29 24 28 21"/>
-      <polygon points="13.5 29 15.5 29 14.5 26"/>
-      <polygon points="22.5 29 24.5 29 23.5 26"/>
-      <polygon points="9 34 11 34 10 31"/>
-      <polygon points="18 34 20 34 19 31"/>
-      <polygon points="27 34 29 34 28 31"/>
+      <polygon points="8 22 9.5 22 8.75 19"/>
+      <polygon points="14.75 22 16.25 22 15.5 19"/>
+      <polygon points="21.5 22 23 22 22.25 19"/>
+      <polygon points="28.25 22 29.75 22 29 19"/>
+      <polygon points="11.375 27 12.875 27 12.125 24"/>
+      <polygon points="18.125 27 19.625 27 18.875 24"/>
+      <polygon points="24.875 27 26.375 27 25.625 24"/>
+      <polygon points="8 32 9.5 32 8.75 29"/>
+      <polygon points="14.75 32 16.25 32 15.5 29"/>
+      <polygon points="21.5 32 23 32 22.25 29"/>
+      <polygon points="28.25 32 29.75 32 29 29"/>
     </g>
-  </g>
-  <g id="line">
-    <rect x="5" y="17" width="62" height="38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   </g>
 </svg>
